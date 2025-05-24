@@ -57,13 +57,13 @@
 
         <h3>About</h3>
         <div>
-          <p>This website was created by <a href='https://twitter.com/anvaka' target='_blank'>@anvaka</a>.
+          <p>Rely on the SOL chain <a href='' target='_blank'></a>.
           It downloads roads from OpenStreetMap and renders them with WebGL.
           </p>
           <p>
-           You can find the entire <a href='https://github.com/anvaka/city-roads'>source code here</a>. 
+            <a href=''>ca：soon</a>. 
            If you love this website you can also <a href='https://www.paypal.com/paypalme2/anvakos/3'>buy me a coffee</a> or 
-           <a href='https://www.patreon.com/anvaka'>support me on Patreon</a>, but you don't have to.
+           <a href=''>support me on token</a>, but you don't have to.
           </p>
         </div>
       </div>
