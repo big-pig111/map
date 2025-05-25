@@ -3,14 +3,14 @@
   <div v-if='boxInTheMiddle'>
     <h3 class='site-header'>city roads</h3>
     <p class='description'>This website renders every single road within a city</p>
-    <p class='description'>ca：4AxjhXmuf969wsLZTUr5s66Ro5G3PoDxk4tvJ8Lcpump</p>
+    <p class='description'>ca：soon</p>
   </div>
   <form v-on:submit.prevent="onSubmit" class='search-box'>
       <input class='query-input' v-model='enteredInput' type='text' placeholder='Enter a city name to start' ref='input'>
       <a type='submit' class='search-submit' href='#' @click.prevent='onSubmit' v-if='enteredInput && !hideInput'>{{mainActionText}}</a>
   </form>
   <div v-if='showWarning' class='prompt message note shadow'>
-    Note: Large cities may require 200MB+ of data transfer and may need a powerful device to render.ca：4AxjhXmuf969wsLZTUr5s66Ro5G3PoDxk4tvJ8Lcpump
+    Note: Large cities may require 200MB+ of data transfer and may need a powerful device to render.ca：soon
   </div>
   <div class='results' v-if='!loading'>
     <div v-if='suggestionsLoaded && suggestions.length' class='suggestions shadow'>
