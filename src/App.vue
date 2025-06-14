@@ -61,7 +61,7 @@
           It downloads roads from OpenStreetMap and renders them with WebGL.
           </p>
           <p>
-            <a href=''>ca：9fH6JGanvkYtGwrBQ7vieT4vy4jw6i6uPEfstXRppump</a>. 
+            <a href=''>ca：soon</a>. 
            If you love this website you can also <a href='https://www.paypal.com/paypalme2/anvakos/3'>buy me a coffee</a> or 
            <a href=''>support me on token</a>, but you don't have to.
           </p>

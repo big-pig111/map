@@ -5,7 +5,7 @@ export default function svgExport(scene, options) {
   const svgExportSettings = {
     open() {
       return `<!-- Generator: 
-ca：9fH6JGanvkYtGwrBQ7vieT4vy4jw6i6uPEfstXRppump contributors, ODbL 1.0. 
+ca：soon contributors, ODbL 1.0. 
 -->`;
     },
     close() {
